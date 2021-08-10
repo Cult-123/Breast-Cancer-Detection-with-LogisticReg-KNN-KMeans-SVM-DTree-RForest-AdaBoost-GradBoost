@@ -1,13 +1,13 @@
 # Cancer-Cell-Prediction-with-LogisticReg-KNN-KMeans-SVM-DTree-RForest-AdaBoost-GradBoost
 Python Data Science Project, Diabetes Detection using:
 
-- KNN (100 % Accuracy)
+- KNN (99.30 % Accuracy)
 - KMeans (90 % Accuracy)
 - Support Vector Machine (100 % Accuracy)
-- Decision Tree (97.14 % Accuracy)
-- Random Forest (93.57 % Accuracy)
+- Decision Tree (99.30 % Accuracy)
+- Random Forest (98.60 % Accuracy)
 - AdaBoostClassifier (100 % Accuracy)
-- GradientBoostingClassifier (100 % Accuracy)
+- GradientBoostingClassifier (99.30 % Accuracy)
 
 For other Accuracy Details Please Check the Project. Other Accuracy Criterias are AUC & ROC Curve, Confusion Matrix, Classification Report, recall_score, precision_score etc.
 
