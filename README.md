@@ -1,6 +1,7 @@
 # Cancer-Cell-Prediction-with-LogisticReg-KNN-KMeans-SVM-DTree-RForest-AdaBoost-GradBoost
 Python Data Science Project, Diabetes Detection using:
 
+![](Images/B10.JPG)
 ![](Images/B1.JPG)
 ![](Images/B2.JPG)
 ![](Images/B3.JPG)
